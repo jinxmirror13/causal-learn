@@ -9,7 +9,7 @@ from causallearn.utils.cit import chisq, fisherz, gsq, kci, mv_fisherz, d_separa
 from causallearn.graph.SHD import SHD
 from causallearn.utils.DAG2CPDAG import dag2cpdag
 from causallearn.utils.TXT2GeneralGraph import txt2generalgraph
-from .utils_simulate_data import simulate_discrete_data, simulate_linear_continuous_data
+from utils_simulate_data import simulate_discrete_data, simulate_linear_continuous_data
 
 
 
